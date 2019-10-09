@@ -4,7 +4,7 @@ This is my solution to the assignment **ArrayStrings** of class **software devel
 
 ### Requirements
 
-This program consists of three classes: Interface **StringTable** that represents a contract of a StringTable with multiple methods.
+This program consists of three classes: Interface **StringTable** that represents a contract for a StringTable with multiple methods.
 Class **ArrayStringTable** is a String table made of a simple Array. Class **ListStringTable** is a String table made of an ArrayList.
 Both are implementing the Interface StringTable.
 
