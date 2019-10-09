@@ -1,3 +1,7 @@
+/**
+ *
+ * This Interface represents a contract of a StringTable.
+ */
 public interface StringTable {
     /**
      * Die Anzahl enthaltener Strings.
