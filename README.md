@@ -2,6 +2,8 @@
 
 This is my solution to the assignment **ArrayStrings** of class **software developement 1**, written in Java.
 
+More information can be seen in the comments of the source code.
+
 ### Requirements
 
 This program consists of three classes: Interface **StringTable** that represents a contract for a StringTable with multiple methods.
